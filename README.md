@@ -26,7 +26,7 @@
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- My Name Smartstore
 </p>
 - Hello All 👋
 <br>
