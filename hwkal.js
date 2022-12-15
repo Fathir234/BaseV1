@@ -17,18 +17,18 @@ global.mygc = 'wa.me/6285893481599'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'stokhamz98@gmail.com'
+global.email = 'SmartStore22@gmail.com'
 global.region = 'bjorka'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Bjorka𝐻𝑒𝑟𝑒🤡🔥' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Hamz is 𝐻𝑒𝑟𝑒🤡🔥' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'hamz ofc🤡🔥' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'SmartStore🤡' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Anonymous 🤡' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Smart ofc🤡🔥' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285893481599']
-global.packname = 'Bjorka𝐻𝑒𝑟𝑒🤡🔥'
-global.ownerr = ['Bjorka𝐻𝑒𝑟𝑒🤡🔥']
-global.author = 'Bjorka𝐻𝑒𝑟𝑒🤡🔥'
+global.owner = ['6281290802585']
+global.packname = 'SmartStore🤡'
+global.ownerr = ['SmartStore🤡']
+global.author = 'SmartStore🤡'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
